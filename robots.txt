@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Cinema-4D-Portable-2026-ec08.github.io/sitemap.xml
